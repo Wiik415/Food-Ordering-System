@@ -3,7 +3,7 @@ Date Accomplished: 18 June 2024
 
 __Note:__ Group Assignment, at April 2024 Session
 
-Group Member: Joey Lim, Jennaye Oon, H.Z Ooi
+Group Member: **_Joey Lim, Jennaye Oon, H.Z Ooi_**
 
 
 This is a food order system with a simple user interface, contained 3 types functions within the overall action of the code. 
