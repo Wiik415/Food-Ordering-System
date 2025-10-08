@@ -30,5 +30,9 @@ The owner decided to promote free beverage when customers order a main course:
 
 ## Program Showcase
 ![Main Menu](https://github.com/Wiik415/Food-Ordering-System/blob/main/java-version/CampusAssignmentVer/images/FOS_MenuShowcase1.png)
+
+
 ![Promotion showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/java-version/CampusAssignmentVer/images/FOS_MenuShowcase6.png)
+
+
 ![Receipt Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/java-version/CampusAssignmentVer/images/FOS_MenuShowcase8.png)
