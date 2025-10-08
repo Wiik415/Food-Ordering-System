@@ -29,10 +29,11 @@ The owner decided to promote free beverage when customers order a main course:
 **_No free beverage provided if customers only order a main course._** 
 
 ## Program Showcase
+### Menu
 ![Main Menu](https://github.com/Wiik415/Food-Ordering-System/blob/main/java-version/CampusAssignmentVer/images/FOS_MenuShowcase1.png)
 
-
+### Promotion Notification
 ![Promotion showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/java-version/CampusAssignmentVer/images/FOS_MenuShowcase6.png)
 
-
+### Receipt Showcase
 ![Receipt Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/java-version/CampusAssignmentVer/images/FOS_MenuShowcase8.png)
