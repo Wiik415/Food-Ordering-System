@@ -1,6 +1,8 @@
 
-# Food Ordering System in Java (Assignment Version)
+# Food Ordering System
 Date Accomplished: 30 September 2025 
+
+Note: Individual Assignment
 
 Unlike other food ordering system, this version included few requirements:
 * __Neither customized class nor array are allowed__
