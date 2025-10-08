@@ -18,4 +18,4 @@ desired.
 ![Overall Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/cpp-version/image/Showcase.png)
 
 ### Receipt Showcase
-![Receipt Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/cpp-version/image/Receipt.png)
+![Receipt Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/cpp-version/image/ReceiptFull.png)
