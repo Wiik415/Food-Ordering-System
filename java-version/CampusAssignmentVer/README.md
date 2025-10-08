@@ -1,4 +1,4 @@
-# Food Ordering System in Java (Campus Assignment Version)
+# Food Ordering System in Java (Assignment Version)
 Date Accomplished: 30 September 2025 
 
 Unlike other food ordering system, this version included few requirements:
@@ -16,10 +16,14 @@ conscious tend to only order a starter and/or a dessert.
 
 The following table is the menu, price listed for each item:
 
+![Table Menu](https://github.com/Wiik415/Food-Ordering-System/blob/main/java-version/CampusAssignmentVer/images/Table_Menu.png)
 
 The owner decided to promote free beverage when customers order a main course:
 * __Free soft drinks if they also order a starter__
 * __Free coffee if they also order a dessert__
 * __Both soft drinks and coffee if they ordered a combo set__
 
-Th
+**_No free beverage provided if customers only order a main course._** 
+
+## Program Showcase
+
