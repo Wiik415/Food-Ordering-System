@@ -1,7 +1,7 @@
 # Food Ordering System
 Date Accomplished: 18 June 2024
 
-Note: Group Assignment, at April 2024 Session
+__Note:__ Group Assignment, at April 2024 Session
 
 Group Member: Joey Lim, Jennaye Oon, H.Z Ooi
 
