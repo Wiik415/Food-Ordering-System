@@ -1,4 +1,7 @@
 # Food Ordering System
+Date Accomplished: 21 September 2025
+
+__Note:__  **_CS50P Final Project_**
 ### Video Demo:  <https://www.youtube.com/watch?v=-9CLNOjs8Zg&t=2s>
 ### Description:
 The project's idea come from the fast food automated ordering system, nowadays consumer don't even need to queue up at the counter just to ordering food, instead they are able to order the food either thru the phone application or the machine at the fast food restaurant. This program simulates the basic food ordering system, which including __Main Menu__, __Food List__, __Order Calculation__ and __Receipt__. Before starting order the program will lead the customers to the main menu part, showing the "WIIK SHOP" logo and current date and time, customers are given options to start ordering food (Button 1) or they can just exit the program by simply press the button 2.
