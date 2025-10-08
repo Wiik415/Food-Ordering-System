@@ -1,7 +1,7 @@
 # Food Ordering System
 Date Accomplished: 18 June 2024
 
-__Note:__ Group Assignment, at April 2024 Session
+__Note:__ Group Assignment, April 2024 Session
 
 Group Member: **_Joey Lim, Jennaye Oon, H.Z Ooi_**
 
@@ -13,4 +13,6 @@ There are 5 food options in this system which is mushroom burger, crispy fried c
 different prices and the user is able to order any quantity of food with any combination that is 
 desired. 
 
-
+# Program Showcase
+![Overall Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/cpp-version/image/Showcase.png)
+![Receipt Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/cpp-version/image/Receipt.png)
