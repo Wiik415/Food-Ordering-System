@@ -14,7 +14,8 @@ different prices and the user is able to order any quantity of food with any com
 desired. 
 
 # Program Showcase
+### Whole Program Showcase
 ![Overall Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/cpp-version/image/Showcase.png)
 
-
+### Receipt Showcase
 ![Receipt Showcase](https://github.com/Wiik415/Food-Ordering-System/blob/main/cpp-version/image/Receipt.png)
